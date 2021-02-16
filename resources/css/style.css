@@ -10,7 +10,6 @@ header {
 }
 
 h1 {
-    font-family: Verdana;
     font-size: 50px;
     color: white;
     text-align: center;
@@ -41,10 +40,16 @@ footer {
 
 p {
     color: Gray;
+    font-size: 21px;
 }
 
 h2 {
     font-weight: 300;
     font-size: 42px;
     color:White;
+}
+
+img,
+section {
+    margin-top: 15px;
 }
